@@ -1,19 +1,41 @@
-## 🧰 Competências
+# Luiz Sarmento 👋
 
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Estudante de Ciência da Computação | Estagiário de TI no COREN-PE
 
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+Me chamo Luiz Sarmento, tenho [SUA IDADE] anos e sou natural de Recife-PE. Atualmente, estou cursando Ciência da Computação e atuo como estagiário de TI no COREN-PE. Sou apaixonado por infraestrutura de TI, automação e compartilho meu conhecimento através deste perfil no GitHub.
 
-### Infraestrutura & Ferramentas
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white) ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+---
 
-### Idiomas
-![Inglês Fluente](https://img.shields.io/badge/Inglês-Fluente-0096D6?style=for-the-badge&logo=efset&logoColor=white) ![Alemão B1](https://img.shields.io/badge/Alemão-B1-FFD700?style=for-the-badge&logo=googletranslate&logoColor=black) ![Espanhol Intermediário](https://img.shields.io/badge/Espanhol-Intermediário-FF4B4B?style=for-the-badge&logo=googletranslate&logoColor=white)
+### 🛠️ Linguagens e Tecnologias
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizsarmentopereira-gif/luizsarmentopereira-gif/output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizsarmentopereira-gif/luizsarmentopereira-gif/output/snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/luizsarmentopereira-gif/luizsarmentopereira-gif/output/snake.svg">
-</picture>
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🌍 Idiomas
+
+![Inglês](https://img.shields.io/badge/Inglês-FLUENTE-2E8B57?style=for-the-badge)
+![Alemão](https://img.shields.io/badge/Alemão-B1-FFA500?style=for-the-badge)
+![Espanhol](https://img.shields.io/badge/Espanhol-INTERMEDIÁRIO-1E90FF?style=for-the-badge)
+
+---
+
+### 🐍 Minhas Contribuições
+
+![Snake animation](https://raw.githubusercontent.com/luizsarmentopereira-gif/luizsarmentopereira-gif/output/snake.svg)
+
+---
+
+### 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-sarmento-534388149/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizsarmentopereira@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizsarmentopereira-gif)
+
+---
+
+⭐ **Obrigado pela visita!** Volte sempre! 🚀
