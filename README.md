@@ -13,7 +13,7 @@
 ![Inglês Fluente](https://img.shields.io/badge/Inglês-Fluente-0096D6?style=for-the-badge&logo=efset&logoColor=white) ![Alemão B1](https://img.shields.io/badge/Alemão-B1-FFD700?style=for-the-badge&logo=googletranslate&logoColor=black) ![Espanhol Intermediário](https://img.shields.io/badge/Espanhol-Intermediário-FF4B4B?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/luizsarmento/luizsarmento/blob/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/luizsarmento/luizsarmento/blob/output/snake.svg">
-  <img alt="Snake animation" src="https://github.com/luizsarmento/luizsarmento/blob/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizsarmentopereira-gif/luizsarmentopereira-gif/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizsarmentopereira-gif/luizsarmentopereira-gif/output/snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/luizsarmentopereira-gif/luizsarmentopereira-gif/output/snake.svg">
 </picture>
