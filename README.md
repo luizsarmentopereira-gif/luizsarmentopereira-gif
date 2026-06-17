@@ -2,17 +2,41 @@
 
 ## Estudante de Ciência da Computação | Estagiário de TI no COREN-PE
 
-Me chamo Luiz Sarmento, tenho [SUA IDADE] anos e sou natural de Recife-PE. Atualmente, estou cursando Ciência da Computação e atuo como estagiário de TI no COREN-PE. Sou apaixonado por infraestrutura de TI, automação e compartilho meu conhecimento através deste perfil no GitHub.
+Me chamo Luiz Sarmento, tenho 31 anos e sou natural de Caruaru-PE. Atualmente, estou cursando Ciência da Computação e atuo como estagiário de TI no COREN-PE. Estou em processo de construção de carreira como desenvolvedor, com foco no aprimoramento em programação, lógica de sistemas e boas práticas de desenvolvimento. Busco oportunidades de aprendizado contínuo, colaboração em equipe e atuação em projetos que utilizem a tecnologia para resolver problemas reais e gerar impacto.
 
 ---
 
-### 🛠️ Linguagens e Tecnologias
+### 💻 Linguagens
 
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>
+
+---
+
+<table width="100%">
+  <tr>
+    <td width="40%" valign="top" align="left">
+      <h3>🛠️ Tecnologias e Ferramentas</h3>
+      <div style="display: inline_block"><br>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=flat&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+      </div>
+    </td>
+    <td width="20%"></td> <td width="40%" valign="top" align="right">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsarmentopereira-gif&layout=compact&theme=radical"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
