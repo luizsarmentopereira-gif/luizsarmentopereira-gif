@@ -18,33 +18,25 @@ Me chamo Luiz Sarmento, tenho 31 anos e sou natural de Caruaru-PE. Atualmente, e
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="40%" valign="top" align="left">
-      <h3>🛠️ Tecnologias e Ferramentas</h3>
-      <div style="display: inline_block"><br>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white" />
-        <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=flat&logo=windows&logoColor=white" />
-        <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white" />
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-      </div>
-    </td>
-    <td width="20%"></td> <td width="40%" valign="top" align="right">
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsarmentopereira-gif&layout=compact&theme=radical"/>
-    </td>
-  </tr>
-</table>
+### 🛠️ Tecnologias e Ferramentas
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</div>
 
 ---
 
+
 ### 🌍 Idiomas
 
-![Inglês](https://img.shields.io/badge/Inglês-FLUENTE-2E8B57?style=for-the-badge)
-![Alemão](https://img.shields.io/badge/Alemão-B1-FFA500?style=for-the-badge)
-![Espanhol](https://img.shields.io/badge/Espanhol-INTERMEDIÁRIO-1E90FF?style=for-the-badge)
+![Inglês](https://img.shields.io/badge/Inglês-FLUENTE-2E8B57?style=flat)
+![Alemão](https://img.shields.io/badge/Alemão-B1-FFA500?style=flat)
+![Espanhol](https://img.shields.io/badge/Espanhol-INTERMEDIÁRIO-1E90FF?style=flat)
 
 ---
 
